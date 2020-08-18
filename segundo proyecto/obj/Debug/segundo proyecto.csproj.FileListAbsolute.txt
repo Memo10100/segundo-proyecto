@@ -1,0 +1,6 @@
+C:\Users\Juan\Desktop\segundo proyecto\segundo proyecto\bin\Debug\segundo proyecto.exe.config
+C:\Users\Juan\Desktop\segundo proyecto\segundo proyecto\bin\Debug\segundo proyecto.exe
+C:\Users\Juan\Desktop\segundo proyecto\segundo proyecto\bin\Debug\segundo proyecto.pdb
+C:\Users\Juan\Desktop\segundo proyecto\segundo proyecto\obj\Debug\segundo proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\segundo proyecto\segundo proyecto\obj\Debug\segundo proyecto.exe
+C:\Users\Juan\Desktop\segundo proyecto\segundo proyecto\obj\Debug\segundo proyecto.pdb
